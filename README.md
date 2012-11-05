@@ -1,4 +1,4 @@
 heroku
 ======
 
-eroku buildpack repository
+Heroku buildpack repository
